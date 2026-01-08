@@ -4,7 +4,6 @@ An interactive **LRU (Least Recently Used) Cache Visualizer** built using **Reac
 The project visually shows cache operations, usage order, eviction, and time complexity.
 
 ---
-
 ## 🚀 Live Demo
 👉 dapper-manatee-d62e13.netlify.app
 ---
